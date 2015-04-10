@@ -1,0 +1,5 @@
+usbGemma.name=USBGemma
+usbGemma.communication=usb
+usbGemma.protocol=usbtiny
+usbGemma.program.tool=arduino:avrdude
+usbGemma.program.extra_params=-Pusb
