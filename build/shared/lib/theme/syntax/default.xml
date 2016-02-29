@@ -35,7 +35,7 @@
    <!-- Syntax tokens. -->
    <tokenStyles>
       <style token="IDENTIFIER" fg="D35400" bold="true"/>
-      <style token="DATA_TYPE" fg="00979D" bold="false"/>
+      <style token="DATA_TYPE" fg="D35400" bold="false"/>
       <style token="FUNCTION" fg="728E00" bold="false"/>
       <style token="VARIABLE" fg="cc6600" bold="false"/>
       <style token="RESERVED_WORD" fg="D35400" bold="false"/>
