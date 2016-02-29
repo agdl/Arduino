@@ -109,7 +109,7 @@ public class SketchTextArea extends RSyntaxTextArea {
     setHyperlinkForeground((Color) processing.app.Theme.getStyledFont("url", getFont()).get("color"));
 
     setSyntaxTheme(TokenTypes.IDENTIFIER, "identifier");
-    setSyntaxTheme(TokenTypes.DATA_TYPE, "data_type"
+    setSyntaxTheme(TokenTypes.DATA_TYPE, "data_type");
     setSyntaxTheme(TokenTypes.FUNCTION, "function");
     setSyntaxTheme(TokenTypes.VARIABLE, "variable");
     setSyntaxTheme(TokenTypes.RESERVED_WORD, "reserved_word");
